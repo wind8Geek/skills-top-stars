@@ -2,7 +2,7 @@
 
 > GitHub 高星 Skills 项目精选  
 > 来源：wind8Geek Stars / Skills List  
-> 抓取：2026-04-04  
+> 抓取：2026-04-05  
 
 ---
 
@@ -85,7 +85,7 @@
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
 **🍴** Fork 4.3k | **🔄** Updated Apr 1, 2026
 
-> OpenClaw Skills 大全。从官方 Skills Registry 筛选分类了 5400+ skills，是目前最全的 OpenClaw 技能库。🦞
+> OpenClaw Skills 大全。从官方 Skills Registry 筛选分类了 5400+ skills，是目前最全的 OpenClaw 技能库。
 
 ---
 
@@ -211,7 +211,7 @@
 **🔗** https://github.com/openclaw/skills  
 **🍴** Fork 1k | **🔄** Updated Apr 4, 2026
 
-> OpenClaw 官方 Skills Registry 中所有版本 skills 的存档。🦞
+> OpenClaw 官方 Skills Registry 中所有版本 skills 的存档。
 
 ---
 
@@ -251,7 +251,7 @@
 
 ---
 
-*由小乔 🦐 自动抓取 & 整理 | 2026-04-04*
+*由小乔、水镜自动抓取 & 整理 | 2026-04-05*
 
 ---
 
@@ -271,7 +271,7 @@
 - 星数仅展示量级（137k、135k...），不展示明细
 
 ### 更新维护
-- **描述优化**：小乔 🦐 会不定期审视并优化各项目的描述内容，确保信息准确、表达清晰
+- **描述优化**：小乔、水镜会不定期审视并优化各项目的描述内容，确保信息准确、表达清晰
 - 发现页面星数变化 → 更新列表顺序
 - 列表已满 24 个时，新 star 的项目进入候选池，候选池上限 10 个
 - 候选池超过 10 个时，按星数淘汰最低者
