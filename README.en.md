@@ -12,28 +12,28 @@
 
 01. [everything-claude-code — 147k ⭐](#1-everything-claude-code-147k-)  
 02. [superpowers — 141k ⭐](#2-superpowers-141k-)  
-03. [skills by anthropics — 113k ⭐](#3-skills-by-anthropics-113k-)  
-04. [awesome-claude-skills by ComposioHQ — 52k ⭐](#4-awesome-claude-skills-by-composiohq-52k-)  
-05. [awesome-openclaw-skills — 45k ⭐](#5-awesome-openclaw-skills-45k-)  
-06. [awesome-claude-code — 37k ⭐](#6-awesome-claude-code-37k-)  
-07. [agent-skills by vercel-labs — 24k ⭐](#7-agent-skills-by-vercel-labs-24k-)  
-08. [obsidian-skills — 21k ⭐](#8-obsidian-skills-21k-)  
-09. [skills by openai — 16k ⭐](#9-skills-by-openai-16k-)  
-10. [claude-plugins-official — 16k ⭐](#10-claude-plugins-official-16k-)  
-11. [Agent-Skills-for-Context-Engineering — 14k ⭐](#11-agent-skills-for-context-engineering-14k-)  
-12. [skills by vercel-labs — 13k ⭐](#12-skills-by-vercel-labs-13k-)  
-13. [skills by mattpocock — 13k ⭐](#13-skills-by-mattpocock-13k-)  
-14. [claude-skills by alirezarezvani — 10k ⭐](#14-claude-skills-by-alirezarezvani-10k-)  
-15. [skills by MiniMax-AI — 9.6k ⭐](#15-skills-by-minimax-ai-96k-)  
-16. [andrej-karpathy-skills — 9.1k ⭐](#16-andrej-karpathy-skills-91k-)  
-17. [skills by slavingia — 7.4k ⭐](#17-skills-by-slavingia-74k-)  
-18. [skills by trailofbits — 4.3k ⭐](#18-skills-by-trailofbits-43k-)  
-19. [skills by openclaw — 3.9k ⭐](#19-skills-by-openclaw-39k-)  
-20. [Skills by Dimillian — 3.2k ⭐](#20-skills-by-dimillian-32k-)  
-21. [gemini-skills — 3.1k ⭐](#21-gemini-skills-31k-)  
-22. [ljg-skills by lijigang — 2.8k ⭐](#22-ljg-skills-by-lijigang-28k-)  
-23. [chrome-cdp-skill — 2.8k ⭐](#23-chrome-cdp-skill-28k-)  
-24. [axton-obsidian-visual-skills — 2.2k ⭐](#24-axton-obsidian-visual-skills-22k-)  
+03. [system-prompts-and-models-of-ai-tools — 135k ⭐](#3-system-prompts-and-models-of-ai-tools-135k-)  
+04. [skills by anthropics — 113k ⭐](#4-skills-by-anthropics-113k-)  
+05. [awesome-claude-skills by ComposioHQ — 52k ⭐](#5-awesome-claude-skills-by-composiohq-52k-)  
+06. [awesome-openclaw-skills — 45k ⭐](#6-awesome-openclaw-skills-45k-)  
+07. [awesome-claude-code — 37k ⭐](#7-awesome-claude-code-37k-)  
+08. [agent-skills by vercel-labs — 24k ⭐](#8-agent-skills-by-vercel-labs-24k-)  
+09. [obsidian-skills — 21k ⭐](#9-obsidian-skills-21k-)  
+10. [skills by openai — 16k ⭐](#10-skills-by-openai-16k-)  
+11. [claude-plugins-official — 16k ⭐](#11-claude-plugins-official-16k-)  
+12. [Agent-Skills-for-Context-Engineering — 14k ⭐](#12-agent-skills-for-context-engineering-14k-)  
+13. [skills by vercel-labs — 13k ⭐](#13-skills-by-vercel-labs-13k-)  
+14. [skills by mattpocock — 13k ⭐](#14-skills-by-mattpocock-13k-)  
+15. [claude-skills by alirezarezvani — 10k ⭐](#15-claude-skills-by-alirezarezvani-10k-)  
+16. [skills by MiniMax-AI — 9.6k ⭐](#16-skills-by-minimax-ai-96k-)  
+17. [andrej-karpathy-skills — 9.1k ⭐](#17-andrej-karpathy-skills-91k-)  
+18. [skills by slavingia — 7.4k ⭐](#18-skills-by-slavingia-74k-)  
+19. [skills by trailofbits — 4.3k ⭐](#19-skills-by-trailofbits-43k-)  
+20. [skills by openclaw — 3.9k ⭐](#20-skills-by-openclaw-39k-)  
+21. [Skills by Dimillian — 3.2k ⭐](#21-skills-by-dimillian-32k-)  
+22. [gemini-skills — 3.1k ⭐](#22-gemini-skills-31k-)  
+23. [ljg-skills by lijigang — 2.8k ⭐](#23-ljg-skills-by-lijigang-28k-)  
+24. [chrome-cdp-skill — 2.8k ⭐](#24-chrome-cdp-skill-28k-)  
 
 ---
 
@@ -57,7 +57,17 @@
 
 ---
 
-## 3. skills by anthropics (113k ⭐)
+## 3. system-prompts-and-models-of-ai-tools (135k ⭐)
+
+**🔗** https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools  
+**🍴** Fork 33k | **🔄** Updated Mar 28, 2026  
+**👤** Lucas Valbuena (x1xhlol) — 16-year-old developer from Spain, founder of ZeroLeaks, focused on uncovering and disclosing internal AI tool information
+
+> Full system prompts, internal tools, and AI model information for dozens of AI tools including Augment Code, Claude Code, Cursor, Devin AI, Windsurf, Replit, Lovable, and more.
+
+---
+
+## 4. skills by anthropics (113k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
 **🍴** Fork 12k | **🔄** Updated Apr 8, 2026  
@@ -67,7 +77,7 @@
 
 ---
 
-## 4. awesome-claude-skills by ComposioHQ (52k ⭐)
+## 5. awesome-claude-skills by ComposioHQ (52k ⭐)
 
 **🔗** https://github.com/ComposioHQ/awesome-claude-skills  
 **🍴** Fork 5.5k | **🔄** Updated Feb 19, 2026  
@@ -77,7 +87,7 @@
 
 ---
 
-## 5. awesome-openclaw-skills (45k ⭐)
+## 6. awesome-openclaw-skills (45k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
 **🍴** Fork 4.3k | **🔄** Updated Apr 4, 2026  
@@ -87,7 +97,7 @@
 
 ---
 
-## 6. awesome-claude-code (37k ⭐)
+## 7. awesome-claude-code (37k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
 **🍴** Fork 3k | **🔄** Updated Apr 9, 2026  
@@ -97,7 +107,7 @@
 
 ---
 
-## 7. agent-skills by vercel-labs (24k ⭐)
+## 8. agent-skills by vercel-labs (24k ⭐)
 
 **🔗** https://github.com/vercel-labs/agent-skills  
 **🍴** Fork 2.2k | **🔄** Updated Apr 2, 2026  
@@ -107,7 +117,7 @@
 
 ---
 
-## 8. obsidian-skills (21k ⭐)
+## 9. obsidian-skills (21k ⭐)
 
 **🔗** https://github.com/kepano/obsidian-skills  
 **🍴** Fork 1.3k | **🔄** Updated Apr 2, 2026  
@@ -117,7 +127,7 @@
 
 ---
 
-## 9. skills by openai (16k ⭐)
+## 10. skills by openai (16k ⭐)
 
 **🔗** https://github.com/openai/skills  
 **🍴** Fork 1k | **🔄** Updated Apr 8, 2026  
@@ -127,7 +137,7 @@
 
 ---
 
-## 10. claude-plugins-official (16k ⭐)
+## 11. claude-plugins-official (16k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-official  
 **🍴** Fork 1.8k | **🔄** Updated Apr 8, 2026  
@@ -137,7 +147,7 @@
 
 ---
 
-## 11. Agent-Skills-for-Context-Engineering (14k ⭐)
+## 12. Agent-Skills-for-Context-Engineering (14k ⭐)
 
 **🔗** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering  
 **🍴** Fork 1.1k | **🔄** Updated Mar 22, 2026  
@@ -147,7 +157,7 @@
 
 ---
 
-## 12. skills by vercel-labs (13k ⭐)
+## 13. skills by vercel-labs (13k ⭐)
 
 **🔗** https://github.com/vercel-labs/skills  
 **🍴** Fork 1.1k | **🔄** Updated Apr 6, 2026  
@@ -157,7 +167,7 @@
 
 ---
 
-## 13. skills by mattpocock (13k ⭐)
+## 14. skills by mattpocock (13k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
 **🍴** Fork 1.1k | **🔄** Updated Apr 1, 2026  
@@ -167,7 +177,7 @@
 
 ---
 
-## 14. claude-skills by alirezarezvani (10k ⭐)
+## 15. claude-skills by alirezarezvani (10k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
 **🍴** Fork 1.2k | **🔄** Updated Apr 8, 2026  
@@ -177,7 +187,7 @@
 
 ---
 
-## 15. skills by MiniMax-AI (9.6k ⭐)
+## 16. skills by MiniMax-AI (9.6k ⭐)
 
 **🔗** https://github.com/MiniMax-AI/skills  
 **🍴** Fork 789 | **🔄** Updated Apr 8, 2026  
@@ -187,7 +197,7 @@
 
 ---
 
-## 16. andrej-karpathy-skills (9.1k ⭐)
+## 17. andrej-karpathy-skills (9.1k ⭐)
 
 **🔗** https://github.com/forrestchang/andrej-karpathy-skills  
 **🍴** Fork 631 | **🔄** Updated Feb 16, 2026  
@@ -197,7 +207,7 @@
 
 ---
 
-## 17. skills by slavingia (7.4k ⭐)
+## 18. skills by slavingia (7.4k ⭐)
 
 **🔗** https://github.com/slavingia/skills  
 **🍴** Fork 729 | **🔄** Updated Apr 3, 2026  
@@ -207,7 +217,7 @@
 
 ---
 
-## 18. skills by trailofbits (4.3k ⭐)
+## 19. skills by trailofbits (4.3k ⭐)
 
 **🔗** https://github.com/trailofbits/skills  
 **🍴** Fork 383 | **🔄** Updated Apr 8, 2026  
@@ -217,7 +227,7 @@
 
 ---
 
-## 19. skills by openclaw (3.9k ⭐)
+## 20. skills by openclaw (3.9k ⭐)
 
 **🔗** https://github.com/openclaw/skills  
 **🍴** Fork 1k | **🔄** Updated Apr 9, 2026  
@@ -227,7 +237,7 @@
 
 ---
 
-## 20. Skills by Dimillian (3.2k ⭐)
+## 21. Skills by Dimillian (3.2k ⭐)
 
 **🔗** https://github.com/Dimillian/Skills  
 **🍴** Fork 165 | **🔄** Updated Mar 29, 2026  
@@ -237,7 +247,7 @@
 
 ---
 
-## 21. gemini-skills (3.1k ⭐)
+## 22. gemini-skills (3.1k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
 **🍴** Fork 279 | **🔄** Updated Mar 27, 2026  
@@ -247,7 +257,7 @@
 
 ---
 
-## 22. ljg-skills by lijigang (2.8k ⭐)
+## 23. ljg-skills by lijigang (2.8k ⭐)
 
 **🔗** https://github.com/lijigang/ljg-skills  
 **🍴** Fork 303 | **🔄** Updated Apr 9, 2026  
@@ -257,7 +267,7 @@
 
 ---
 
-## 23. chrome-cdp-skill (2.8k ⭐)
+## 24. chrome-cdp-skill (2.8k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
 **🍴** Fork 173 | **🔄** Updated Mar 18, 2026  
@@ -267,23 +277,14 @@
 
 ---
 
-## 24. axton-obsidian-visual-skills (2.2k ⭐)
-
-**🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
-**🍴** Fork 212 | **🔄** Updated Feb 12, 2026  
-**👤** Axton Liu — Active developer in the Obsidian ecosystem, focused on visual toolchain building
-
-> Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code.
-
----
-
 ## Candidate Pool
 
 | # | Project | Link | Stars | Description |
 |---|---------|------|-------|-------------|
-| 1 | microsoft/skills | https://github.com/microsoft/skills | 1.9k ⭐ | Microsoft official — Skills, MCP servers, Custom Agents for SDK-powered coding agents |
-| 2 | cisco-ai-defense/skill-scanner | https://github.com/cisco-ai-defense/skill-scanner | 1.7k ⭐ | Cisco — Security Scanner for Agent Skills |
-| 3 | imxv/Pretty-mermaid-skills | https://github.com/imxv/Pretty-mermaid-skills | 621 ⭐ | Mermaid chart rendering capability, supporting SVG and ASCII output formats |
+| 1 | axtonliu/axton-obsidian-visual-skills | https://github.com/axtonliu/axton-obsidian-visual-skills | 2.2k ⭐ | Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams |
+| 2 | microsoft/skills | https://github.com/microsoft/skills | 1.9k ⭐ | Microsoft official — Skills, MCP servers, Custom Agents for SDK-powered coding agents |
+| 3 | cisco-ai-defense/skill-scanner | https://github.com/cisco-ai-defense/skill-scanner | 1.7k ⭐ | Cisco — Security Scanner for Agent Skills |
+| 4 | imxv/Pretty-mermaid-skills | https://github.com/imxv/Pretty-mermaid-skills | 621 ⭐ | Mermaid chart rendering capability, supporting SVG and ASCII output formats |
 
 ---
 
@@ -299,7 +300,7 @@
 - **Note**: The list may be paginated — always check all pages
 
 ### Requirements
-1. Directly related to **AI Agent / Coding Agent Skills**
+1. Starred by wind8Geek — that's the authoritative filter
 2. Public repository
 3. Star ≥ 500 (unless exceptionally representative)
 4. Top list capped at **24**, sorted by stars descending; others go to the candidate pool
@@ -320,6 +321,4 @@
 - When removing a project, note the reason and date next to the entry title
 
 ### Exclusion Principles
-- Unrelated to AI/Coding Agent tools
-- Pure list repos without substantial skills content
 - Star < 500 (unless exceptionally representative)
