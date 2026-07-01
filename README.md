@@ -614,23 +614,20 @@
 - [OpenClaw-Medical-Skills](#41-freedomintelligenceopenclaw-medical-skills-28k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
 
 
-## 已移除
-
-| 项目 | 原因 | 日期 |
-|------|------|------|
-| openclaw/skills ❌ | 已从 wind8Geek Skills 列表移除 | 2026-05-08 |
-| warpdotdev/oz-skills ❌ [2026-06-16] | 超出 42 个上限，按星数淘汰 | 2026-06-16 |
-| imxv/Pretty-mermaid-skills ❌ [2026-06-16] | 超出 42 个上限，按星数淘汰 | 2026-06-16 |
-| antvis/chart-visualization-skills ❌ [2026-06-16] | Star < 500 | 2026-06-16 |
-| share-skills/pi ❌ [2026-06-16] | Star < 500 | 2026-06-16 |
-
 ---
 
 ## 收录规则
 
-- 收录标准、条目模版与维护流程见 [top-stars-ops 规范](https://github.com/wind8ai/top-stars-ops/blob/main/docs/top-stars-ops-spec.md)
-- 正式榜上限 **42** 个，按 Star 倒序
+- 收录标准：wind8ai 已 star 且在该类目 Star List 中即收录，按 GitHub Star 总数降序
+- 正式榜上限 **42** 个，最低门槛 Star ≥ 500
 - 数据来源：wind8ai [Star List `skills`](https://github.com/stars/wind8ai/lists/skills)
+
+---
+
+## 许可
+
+本榜策展正文（排行、描述、分类索引）采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) © wind8ai。  
+各条目所链接的开源项目受其各自仓库许可证约束。
 
 ---
 
