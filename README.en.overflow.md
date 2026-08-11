@@ -3,15 +3,15 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Star List entries beyond the formal cap of 42, ranked by total GitHub Stars  
-> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-08-07
+> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-08-11
 
 ---
 
 ## Contents
 
-01. [deanpeters/Product-Manager-Skills (6.3k ⭐)](#1-deanpetersproduct-manager-skills-63k-)
+01. [deanpeters/Product-Manager-Skills (6.4k ⭐)](#1-deanpetersproduct-manager-skills-64k-)
 02. [antfu/skills (5.7k ⭐)](#2-antfuskills-57k-)
-03. [alchaincyf/darwin-skill (5.4k ⭐)](#3-alchaincyfdarwin-skill-54k-)
+03. [alchaincyf/darwin-skill (5.5k ⭐)](#3-alchaincyfdarwin-skill-55k-)
 04. [browser-act/skills (5.3k ⭐)](#4-browser-actskills-53k-)
 05. [Dimillian/Skills (3.9k ⭐)](#5-dimillianskills-39k-)
 06. [google-gemini/gemini-skills (3.9k ⭐)](#6-google-geminigemini-skills-39k-)
@@ -21,23 +21,23 @@
 10. [microsoft/skills (2.9k ⭐)](#10-microsoftskills-29k-)
 11. [cisco-ai-defense/skill-scanner (2.4k ⭐)](#11-cisco-ai-defenseskill-scanner-24k-)
 12. [wuji-labs/nopua (1.4k ⭐)](#12-wuji-labsnopua-14k-)
-13. [Kappaemme-git/codex-startup-pressure-test-skill (984 ⭐)](#13-kappaemme-gitcodex-startup-pressure-test-skill-984-)
+13. [Kappaemme-git/codex-startup-pressure-test-skill (983 ⭐)](#13-kappaemme-gitcodex-startup-pressure-test-skill-983-)
 14. [warpdotdev/oz-skills (820 ⭐)](#14-warpdotdevoz-skills-820-)
-15. [imxv/Pretty-mermaid-skills (798 ⭐)](#15-imxvpretty-mermaid-skills-798-)
-16. [antvis/chart-visualization-skills (455 ⭐)](#16-antvischart-visualization-skills-455-)
-17. [microsoft/Resource2Skill (373 ⭐)](#17-microsoftresource2skill-373-)
-18. [liby/dotfiles (112 ⭐)](#18-libydotfiles-112-)
-19. [share-skills/pi (107 ⭐)](#19-share-skillspi-107-)
-20. [lazypay/Archscribe (101 ⭐)](#20-lazypayarchscribe-101-)
-21. [didixuxu/didi-skills (79 ⭐)](#21-didixuxudidi-skills-79-)
+15. [imxv/Pretty-mermaid-skills (801 ⭐)](#15-imxvpretty-mermaid-skills-801-)
+16. [antvis/chart-visualization-skills (458 ⭐)](#16-antvischart-visualization-skills-458-)
+17. [microsoft/Resource2Skill (381 ⭐)](#17-microsoftresource2skill-381-)
+18. [lazypay/Archscribe (170 ⭐)](#18-lazypayarchscribe-170-)
+19. [liby/dotfiles (112 ⭐)](#19-libydotfiles-112-)
+20. [share-skills/pi (107 ⭐)](#20-share-skillspi-107-)
+21. [didixuxu/didi-skills (80 ⭐)](#21-didixuxudidi-skills-80-)
 22. [YouMind-OpenLab/skills (68 ⭐)](#22-youmind-openlabskills-68-)
 
 ---
 
-## 1. deanpeters/Product-Manager-Skills (6.3k ⭐)
+## 1. deanpeters/Product-Manager-Skills (6.4k ⭐)
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
-**🍴** Forks 765 | **🔄** Updated 2026-07-17  
+**🍴** Forks 771 | **🔄** Updated 2026-08-10  
 **👤** Dean Peters — Senior product management practitioner, PM skills framework practitioner
 
 > Product management skills framework, compatible with Claude Code / Cowork / Codex.
@@ -58,10 +58,10 @@
 
 ---
 
-## 3. alchaincyf/darwin-skill (5.4k ⭐)
+## 3. alchaincyf/darwin-skill (5.5k ⭐)
 
 **🔗** https://github.com/alchaincyf/darwin-skill  
-**🍴** Forks 578 | **🔄** Updated 2026-07-27  
+**🍴** Forks 582 | **🔄** Updated 2026-07-27  
 **👤** Huashu (alchaincyf) — Can't write a line of code but built an AppStore #1 paid product with AI, authored 9 tech books, open-source skills totaling nearly 60k stars
 
 > Darwin.skill — An autonomous skill evolution system. Inspired by Karpathy's autoresearch, uses autonomous experiment loops to batch-optimize skills. 9-dimension evaluation, ratchet mechanism (only retains improvements, auto-rolls back regressions).
@@ -73,7 +73,7 @@
 ## 4. browser-act/skills (5.3k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Forks 249 | **🔄** Updated 2026-08-05  
+**🍴** Forks 253 | **🔄** Updated 2026-08-05  
 **👤** browser-act — Browser automation CLI team, focused on AI agent browser control
 
 > Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution.
@@ -85,7 +85,7 @@
 ## 5. Dimillian/Skills (3.9k ⭐)
 
 **🔗** https://github.com/Dimillian/Skills  
-**🍴** Forks 203 | **🔄** Updated 2026-03-29  
+**🍴** Forks 204 | **🔄** Updated 2026-03-29  
 **👤** Thomas Ricou (Dimillian) — Independent iOS developer, former Chief iOS Engineer at Carousell
 
 > Dimillian's personal Codex Skills collection. Shell implementation.
@@ -97,7 +97,7 @@
 ## 6. google-gemini/gemini-skills (3.9k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Forks 396 | **🔄** Updated 2026-08-06  
+**🍴** Forks 397 | **🔄** Updated 2026-08-06  
 **👤** Google Gemini Official Team — Maintainers of the Gemini API and SDK
 
 > Skills for Gemini API, SDK, and model/agent interaction.
@@ -109,7 +109,7 @@
 ## 7. axtonliu/axton-obsidian-visual-skills (3.3k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
-**🍴** Forks 295 | **🔄** Updated 2026-06-26  
+**🍴** Forks 297 | **🔄** Updated 2026-06-26  
 **👤** Axton Liu — Practitioner in the Obsidian visualization space
 
 > Obsidian visual skills for generating Canvas/Excalidraw/Mermaid diagrams.
@@ -121,7 +121,7 @@
 ## 8. pasky/chrome-cdp-skill (3.2k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Forks 200 | **🔄** Updated 2026-06-28  
+**🍴** Forks 201 | **🔄** Updated 2026-06-28  
 **👤** pasky — Independent developer, focused on browser automation and AI agent integration
 
 > Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open. CDP protocol implementation. JavaScript implementation.
@@ -133,7 +133,7 @@
 ## 9. FreedomIntelligence/OpenClaw-Medical-Skills (2.9k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Forks 410 | **🔄** Updated 2026-07-21  
+**🍴** Forks 411 | **🔄** Updated 2026-07-21  
 **👤** FreedomIntelligence — Open-source team in the Medical AI space
 
 > The largest open-source medical AI skills library, built specifically for OpenClaw.
@@ -145,7 +145,7 @@
 ## 10. microsoft/skills (2.9k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Forks 323 | **🔄** Updated 2026-08-07  
+**🍴** Forks 323 | **🔄** Updated 2026-08-10  
 **👤** Microsoft Official Team — Builders of the SDK and developer tools ecosystem
 
 > Microsoft official Skills, MCP servers, and Custom Agents for SDKs. TypeScript implementation.
@@ -157,7 +157,7 @@
 ## 11. cisco-ai-defense/skill-scanner (2.4k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
-**🍴** Forks 298 | **🔄** Updated 2026-08-04  
+**🍴** Forks 304 | **🔄** Updated 2026-08-04  
 **👤** Cisco AI Defense — Cisco's AI security team
 
 > Agent Skills security scanner by Cisco.
@@ -178,10 +178,10 @@
 
 ---
 
-## 13. Kappaemme-git/codex-startup-pressure-test-skill (984 ⭐)
+## 13. Kappaemme-git/codex-startup-pressure-test-skill (983 ⭐)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
-**🍴** Forks 91 | **🔄** Updated 2026-05-03  
+**🍴** Forks 90 | **🔄** Updated 2026-05-03  
 **👤** Francesco (Kappaemme-git) — CS student at University of Naples Federico II; author of the startup pressure-test skill
 
 > Codex skill that brutally pressure-tests startup ideas — returns verdict, scorecard, fatal flaws, first customer moves, and a 2-week MVP direction.
@@ -202,7 +202,7 @@
 
 ---
 
-## 15. imxv/Pretty-mermaid-skills (798 ⭐)
+## 15. imxv/Pretty-mermaid-skills (801 ⭐)
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Forks 41 | **🔄** Updated 2026-01-31  
@@ -214,7 +214,7 @@
 
 ---
 
-## 16. antvis/chart-visualization-skills (455 ⭐)
+## 16. antvis/chart-visualization-skills (458 ⭐)
 
 **🔗** https://github.com/antvis/chart-visualization-skills  
 **🍴** Forks 35 | **🔄** Updated 2026-08-06  
@@ -226,10 +226,10 @@
 
 ---
 
-## 17. microsoft/Resource2Skill (373 ⭐)
+## 17. microsoft/Resource2Skill (381 ⭐)
 
 **🔗** https://github.com/microsoft/Resource2Skill  
-**🍴** Forks 33 | **🔄** Updated 2026-07-17  
+**🍴** Forks 37 | **🔄** Updated 2026-07-17  
 **👤** Microsoft Research — open-source team behind the Resource2Skill runtime and skill libraries
 
 > Microsoft's open-source framework for distilling multimodal human-created resources into executable agent skills that can be browsed, composed, and run through software tools.
@@ -238,10 +238,22 @@
 
 ---
 
-## 18. liby/dotfiles (112 ⭐)
+## 18. lazypay/Archscribe (170 ⭐)
+
+**🔗** https://github.com/lazypay/Archscribe  
+**🍴** Forks 14 | **🔄** Updated 2026-07-15  
+**👤** Ztest (lazypay) — creator of the Archscribe hand-drawn technical-diagram tool
+
+> Hand-drawn technical-diagram skill and local renderer for Codex and Claude, generating editable Excalidraw files, static PNGs, and animated GIFs from JSON.
+
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
+
+---
+
+## 19. liby/dotfiles (112 ⭐)
 
 **🔗** https://github.com/liby/dotfiles  
-**🍴** Forks 11 | **🔄** Updated 2026-08-07  
+**🍴** Forks 12 | **🔄** Updated 2026-08-11  
 **👤** Bryan Lee (liby) — developer and maintainer of the dotfiles collection
 
 > Personal development-environment configuration for humans and coding agents, covering shell, editor, and agent workflow conventions for a consistent engineering context.
@@ -250,7 +262,7 @@
 
 ---
 
-## 19. share-skills/pi (107 ⭐)
+## 20. share-skills/pi (107 ⭐)
 
 **🔗** https://github.com/share-skills/pi  
 **🍴** Forks 6 | **🔄** Updated 2026-06-23  
@@ -262,19 +274,7 @@
 
 ---
 
-## 20. lazypay/Archscribe (101 ⭐)
-
-**🔗** https://github.com/lazypay/Archscribe  
-**🍴** Forks 9 | **🔄** Updated 2026-07-15  
-**👤** Ztest (lazypay) — creator of the Archscribe hand-drawn technical-diagram tool
-
-> Hand-drawn technical-diagram skill and local renderer for Codex and Claude, generating editable Excalidraw files, static PNGs, and animated GIFs from JSON.
-
-**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
-
----
-
-## 21. didixuxu/didi-skills (79 ⭐)
+## 21. didixuxu/didi-skills (80 ⭐)
 
 **🔗** https://github.com/didixuxu/didi-skills  
 **🍴** Forks 9 | **🔄** Updated 2026-05-30  
@@ -302,17 +302,17 @@
 ### 🏛️ Official & Standards
 
 - [skills](#10-microsoftskills-29k-) — Microsoft official Skills, MCP servers, and Custom Agents fo…
-- [Resource2Skill](#17-microsoftresource2skill-373-) — Microsoft's open-source framework for distilling multimodal …
+- [Resource2Skill](#17-microsoftresource2skill-381-) — Microsoft's open-source framework for distilling multimodal …
 
 ### 🤖 Agent Workflows & Methodology
 
-- [darwin-skill](#3-alchaincyfdarwin-skill-54k-) — Darwin
+- [darwin-skill](#3-alchaincyfdarwin-skill-55k-) — Darwin
 
 ### 📦 Domain Skills Collections
 
-- [Product-Manager-Skills](#1-deanpetersproduct-manager-skills-63k-) — Product management skills framework, compatible with Claude …
+- [Product-Manager-Skills](#1-deanpetersproduct-manager-skills-64k-) — Product management skills framework, compatible with Claude …
 - [axton-obsidian-visual-skills](#7-axtonliuaxton-obsidian-visual-skills-33k-) — Obsidian visual skills for generating Canvas/Excalidraw/Merm…
-- [didi-skills](#21-didixuxudidi-skills-79-) — Claude Code skills for structured business and research work…
+- [didi-skills](#21-didixuxudidi-skills-80-) — Claude Code skills for structured business and research work…
 
 ### 🔧 Tooling & Quality
 
@@ -324,13 +324,13 @@
 - [OpenClaw-Medical-Skills](#9-freedomintelligenceopenclaw-medical-skills-29k-) — The largest open-source medical AI skills library, built spe…
 - [skill-scanner](#11-cisco-ai-defenseskill-scanner-24k-) — Agent Skills security scanner by Cisco
 - [nopua](#12-wuji-labsnopua-14k-) — A skill that unlocks your AI's potential through love
-- [codex-startup-pressure-test-skill](#13-kappaemme-gitcodex-startup-pressure-test-skill-984-) — Codex skill that brutally pressure-tests startup ideas — ret…
+- [codex-startup-pressure-test-skill](#13-kappaemme-gitcodex-startup-pressure-test-skill-983-) — Codex skill that brutally pressure-tests startup ideas — ret…
 - [oz-skills](#14-warpdotdevoz-skills-820-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
-- [Pretty-mermaid-skills](#15-imxvpretty-mermaid-skills-798-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
-- [chart-visualization-skills](#16-antvischart-visualization-skills-455-) — AntV visualization skills for AI coding agents, turning data…
-- [dotfiles](#18-libydotfiles-112-) — Personal development-environment configuration for humans an…
-- [pi](#19-share-skillspi-107-) — Agent skills combining strategic ideas from The Art of War w…
-- [Archscribe](#20-lazypayarchscribe-101-) — Hand-drawn technical-diagram skill and local renderer for Co…
+- [Pretty-mermaid-skills](#15-imxvpretty-mermaid-skills-801-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
+- [chart-visualization-skills](#16-antvischart-visualization-skills-458-) — AntV visualization skills for AI coding agents, turning data…
+- [Archscribe](#18-lazypayarchscribe-170-) — Hand-drawn technical-diagram skill and local renderer for Co…
+- [dotfiles](#19-libydotfiles-112-) — Personal development-environment configuration for humans an…
+- [pi](#20-share-skillspi-107-) — Agent skills combining strategic ideas from The Art of War w…
 - [skills](#22-youmind-openlabskills-68-) — Claude Code skills from YouMind OpenLab, packaging AI-assist…
 
 
@@ -351,4 +351,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-08-07*
+*Curated by wind8 | 2026-08-11*
