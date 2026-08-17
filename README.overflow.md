@@ -3,41 +3,41 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-08-11
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-08-17
 
 ---
 
 ## Contents
 
-01. [deanpeters/Product-Manager-Skills (6.4k ⭐)](#1-deanpetersproduct-manager-skills-64k-)
-02. [antfu/skills (5.7k ⭐)](#2-antfuskills-57k-)
-03. [alchaincyf/darwin-skill (5.5k ⭐)](#3-alchaincyfdarwin-skill-55k-)
+01. [deanpeters/Product-Manager-Skills (6.5k ⭐)](#1-deanpetersproduct-manager-skills-65k-)
+02. [antfu/skills (5.8k ⭐)](#2-antfuskills-58k-)
+03. [alchaincyf/darwin-skill (5.6k ⭐)](#3-alchaincyfdarwin-skill-56k-)
 04. [browser-act/skills (5.3k ⭐)](#4-browser-actskills-53k-)
-05. [Dimillian/Skills (3.9k ⭐)](#5-dimillianskills-39k-)
-06. [google-gemini/gemini-skills (3.9k ⭐)](#6-google-geminigemini-skills-39k-)
+05. [google-gemini/gemini-skills (3.9k ⭐)](#5-google-geminigemini-skills-39k-)
+06. [Dimillian/Skills (3.9k ⭐)](#6-dimillianskills-39k-)
 07. [axtonliu/axton-obsidian-visual-skills (3.3k ⭐)](#7-axtonliuaxton-obsidian-visual-skills-33k-)
 08. [pasky/chrome-cdp-skill (3.2k ⭐)](#8-paskychrome-cdp-skill-32k-)
 09. [FreedomIntelligence/OpenClaw-Medical-Skills (2.9k ⭐)](#9-freedomintelligenceopenclaw-medical-skills-29k-)
 10. [microsoft/skills (2.9k ⭐)](#10-microsoftskills-29k-)
 11. [cisco-ai-defense/skill-scanner (2.4k ⭐)](#11-cisco-ai-defenseskill-scanner-24k-)
 12. [wuji-labs/nopua (1.4k ⭐)](#12-wuji-labsnopua-14k-)
-13. [Kappaemme-git/codex-startup-pressure-test-skill (983 ⭐)](#13-kappaemme-gitcodex-startup-pressure-test-skill-983-)
-14. [warpdotdev/oz-skills (820 ⭐)](#14-warpdotdevoz-skills-820-)
-15. [imxv/Pretty-mermaid-skills (801 ⭐)](#15-imxvpretty-mermaid-skills-801-)
-16. [antvis/chart-visualization-skills (458 ⭐)](#16-antvischart-visualization-skills-458-)
-17. [microsoft/Resource2Skill (381 ⭐)](#17-microsoftresource2skill-381-)
-18. [lazypay/Archscribe (170 ⭐)](#18-lazypayarchscribe-170-)
-19. [liby/dotfiles (112 ⭐)](#19-libydotfiles-112-)
+13. [imxv/Pretty-mermaid-skills (1.1k ⭐)](#13-imxvpretty-mermaid-skills-11k-)
+14. [Kappaemme-git/codex-startup-pressure-test-skill (987 ⭐)](#14-kappaemme-gitcodex-startup-pressure-test-skill-987-)
+15. [warpdotdev/oz-skills (820 ⭐)](#15-warpdotdevoz-skills-820-)
+16. [microsoft/Resource2Skill (470 ⭐)](#16-microsoftresource2skill-470-)
+17. [antvis/chart-visualization-skills (462 ⭐)](#17-antvischart-visualization-skills-462-)
+18. [lazypay/Archscribe (309 ⭐)](#18-lazypayarchscribe-309-)
+19. [liby/dotfiles (113 ⭐)](#19-libydotfiles-113-)
 20. [share-skills/pi (107 ⭐)](#20-share-skillspi-107-)
 21. [didixuxu/didi-skills (80 ⭐)](#21-didixuxudidi-skills-80-)
 22. [YouMind-OpenLab/skills (68 ⭐)](#22-youmind-openlabskills-68-)
 
 ---
 
-## 1. deanpeters/Product-Manager-Skills (6.4k ⭐)
+## 1. deanpeters/Product-Manager-Skills (6.5k ⭐)
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
-**🍴** Fork 771 | **🔄** Updated 2026-08-10  
+**🍴** Fork 789 | **🔄** Updated 2026-08-13  
 **👤** Dean Peters — 产品管理领域资深从业者，PM 技能框架实践者
 
 > 产品管理技能框架，适配 Claude Code / Cowork / Codex。
@@ -46,7 +46,7 @@
 
 ---
 
-## 2. antfu/skills (5.7k ⭐)
+## 2. antfu/skills (5.8k ⭐)
 
 **🔗** https://github.com/antfu/skills  
 **🍴** Fork 318 | **🔄** Updated 2026-06-23  
@@ -58,10 +58,10 @@
 
 ---
 
-## 3. alchaincyf/darwin-skill (5.5k ⭐)
+## 3. alchaincyf/darwin-skill (5.6k ⭐)
 
 **🔗** https://github.com/alchaincyf/darwin-skill  
-**🍴** Fork 582 | **🔄** Updated 2026-07-27  
+**🍴** Fork 600 | **🔄** Updated 2026-07-27  
 **👤** 花叔（alchaincyf）— 不会写代码但用 AI 做出 AppStore Top 1 付费产品，写了 9 本技术书，开源 skill 共近 6 万 star
 
 > 达尔文.skill —— 让所有 Skill 自主进化的系统。受 Karpathy autoresearch 启发，用自主实验循环批量优化 Skill。9 维度评估、棘轮机制（只保留改进，自动回滚退步）。
@@ -73,7 +73,7 @@
 ## 4. browser-act/skills (5.3k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Fork 253 | **🔄** Updated 2026-08-05  
+**🍴** Fork 256 | **🔄** Updated 2026-08-12  
 **👤** browser-act — 浏览器自动化 CLI 团队，专注 AI agent 的浏览器控制
 
 > 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接。
@@ -82,22 +82,10 @@
 
 ---
 
-## 5. Dimillian/Skills (3.9k ⭐)
-
-**🔗** https://github.com/Dimillian/Skills  
-**🍴** Fork 204 | **🔄** Updated 2026-03-29  
-**👤** Thomas Ricou (Dimillian) — 独立 iOS 开发者，前 Carousell 首席 iOS 工程师
-
-> Dimillian 的个人 Codex Skills 集合，Shell 实现。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 6. google-gemini/gemini-skills (3.9k ⭐)
+## 5. google-gemini/gemini-skills (3.9k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 397 | **🔄** Updated 2026-08-06  
+**🍴** Fork 399 | **🔄** Updated 2026-08-17  
 **👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
 
 > Gemini API、SDK 和 model/agent 交互的 Skills。
@@ -106,10 +94,22 @@
 
 ---
 
+## 6. Dimillian/Skills (3.9k ⭐)
+
+**🔗** https://github.com/Dimillian/Skills  
+**🍴** Fork 206 | **🔄** Updated 2026-03-29  
+**👤** Thomas Ricou (Dimillian) — 独立 iOS 开发者，前 Carousell 首席 iOS 工程师
+
+> Dimillian 的个人 Codex Skills 集合，Shell 实现。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
 ## 7. axtonliu/axton-obsidian-visual-skills (3.3k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
-**🍴** Fork 297 | **🔄** Updated 2026-06-26  
+**🍴** Fork 299 | **🔄** Updated 2026-06-26  
 **👤** Axton Liu — Obsidian 可视化领域实践者
 
 > Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表。
@@ -121,7 +121,7 @@
 ## 8. pasky/chrome-cdp-skill (3.2k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Fork 201 | **🔄** Updated 2026-06-28  
+**🍴** Fork 200 | **🔄** Updated 2026-06-28  
 **👤** pasky — 独立开发者，专注浏览器自动化与 AI agent 集成
 
 > 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现。JavaScript 实现。
@@ -133,7 +133,7 @@
 ## 9. FreedomIntelligence/OpenClaw-Medical-Skills (2.9k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Fork 411 | **🔄** Updated 2026-07-21  
+**🍴** Fork 410 | **🔄** Updated 2026-07-21  
 **👤** FreedomIntelligence — 医疗 AI 领域开源团队
 
 > 最大开源医疗 AI 技能库，专为 OpenClaw 构建。
@@ -145,7 +145,7 @@
 ## 10. microsoft/skills (2.9k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Fork 323 | **🔄** Updated 2026-08-10  
+**🍴** Fork 331 | **🔄** Updated 2026-08-14  
 **👤** Microsoft 官方团队 — SDK 和开发者工具生态的构建者
 
 > Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents。TypeScript 实现。
@@ -157,7 +157,7 @@
 ## 11. cisco-ai-defense/skill-scanner (2.4k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
-**🍴** Fork 304 | **🔄** Updated 2026-08-04  
+**🍴** Fork 307 | **🔄** Updated 2026-08-04  
 **👤** Cisco AI Defense — Cisco 旗下 AI 安全团队
 
 > Cisco 出品，Agent Skills 安全扫描器。
@@ -178,7 +178,19 @@
 
 ---
 
-## 13. Kappaemme-git/codex-startup-pressure-test-skill (983 ⭐)
+## 13. imxv/Pretty-mermaid-skills (1.1k ⭐)
+
+**🔗** https://github.com/imxv/Pretty-mermaid-skills  
+**🍴** Fork 53 | **🔄** Updated 2026-01-31  
+**👤** imxv — Pretty Mermaid Skills 独立开发者
+
+> 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
+## 14. Kappaemme-git/codex-startup-pressure-test-skill (987 ⭐)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Fork 90 | **🔄** Updated 2026-05-03  
@@ -190,10 +202,10 @@
 
 ---
 
-## 14. warpdotdev/oz-skills (820 ⭐)
+## 15. warpdotdev/oz-skills (820 ⭐)
 
 **🔗** https://github.com/warpdotdev/oz-skills  
-**🍴** Fork 64 | **🔄** Updated 2026-05-12  
+**🍴** Fork 63 | **🔄** Updated 2026-08-15  
 **👤** Warp 官方团队 — 终端 AI agent 平台，Oz Skills 策展维护方
 
 > Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Markdown 技能包帮助 agent 理解你的规范与工作流。
@@ -202,34 +214,10 @@
 
 ---
 
-## 15. imxv/Pretty-mermaid-skills (801 ⭐)
-
-**🔗** https://github.com/imxv/Pretty-mermaid-skills  
-**🍴** Fork 41 | **🔄** Updated 2026-01-31  
-**👤** imxv — Pretty Mermaid Skills 独立开发者
-
-> 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 16. antvis/chart-visualization-skills (458 ⭐)
-
-**🔗** https://github.com/antvis/chart-visualization-skills  
-**🍴** Fork 35 | **🔄** Updated 2026-08-06  
-**👤** AntV AI Visualization Team — 蚂蚁集团数据可视化开源团队
-
-> AntV 面向 AI coding agent 的图表可视化 Skills，用可复用技能把数据分析结果转成合适的视觉表达，覆盖图表选择、生成与呈现。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 17. microsoft/Resource2Skill (381 ⭐)
+## 16. microsoft/Resource2Skill (470 ⭐)
 
 **🔗** https://github.com/microsoft/Resource2Skill  
-**🍴** Fork 37 | **🔄** Updated 2026-07-17  
+**🍴** Fork 56 | **🔄** Updated 2026-07-17  
 **👤** Microsoft Research — Resource2Skill 运行时与技能库开源团队
 
 > Microsoft 开源的多模态资源到可执行 Skill 蒸馏框架，把教程视频、文章、代码和参考素材转成可浏览、组合与运行的 Agent 技能库。
@@ -238,10 +226,22 @@
 
 ---
 
-## 18. lazypay/Archscribe (170 ⭐)
+## 17. antvis/chart-visualization-skills (462 ⭐)
+
+**🔗** https://github.com/antvis/chart-visualization-skills  
+**🍴** Fork 35 | **🔄** Updated 2026-08-14  
+**👤** AntV AI Visualization Team — 蚂蚁集团数据可视化开源团队
+
+> AntV 面向 AI coding agent 的图表可视化 Skills，用可复用技能把数据分析结果转成合适的视觉表达，覆盖图表选择、生成与呈现。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
+## 18. lazypay/Archscribe (309 ⭐)
 
 **🔗** https://github.com/lazypay/Archscribe  
-**🍴** Fork 14 | **🔄** Updated 2026-07-15  
+**🍴** Fork 21 | **🔄** Updated 2026-07-15  
 **👤** Ztest（lazypay）— Archscribe 手绘技术图工具作者
 
 > 面向 Codex 与 Claude 的手绘技术图 Skill 和本地渲染器，可从 JSON 生成可编辑 Excalidraw、静态 PNG 与动态 GIF，覆盖架构图和流程图等场景。
@@ -250,10 +250,10 @@
 
 ---
 
-## 19. liby/dotfiles (112 ⭐)
+## 19. liby/dotfiles (113 ⭐)
 
 **🔗** https://github.com/liby/dotfiles  
-**🍴** Fork 12 | **🔄** Updated 2026-08-11  
+**🍴** Fork 11 | **🔄** Updated 2026-08-17  
 **👤** Bryan Lee（liby）— 开发者与 dotfiles 维护者
 
 > 同时服务开发者与 coding agent 的个人开发环境配置，包含 Shell、编辑器及 Agent 工作流约定，便于复用一致的工程上下文。
@@ -302,33 +302,33 @@
 ### 🏛️ 官方与标准
 
 - [skills](#10-microsoftskills-29k-) — Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents
-- [Resource2Skill](#17-microsoftresource2skill-381-) — Microsoft 开源的多模态资源到可执行 Skill 蒸馏框架，把教程视频、文章、代码和参考素材转成可浏览、组合与运…
+- [Resource2Skill](#16-microsoftresource2skill-470-) — Microsoft 开源的多模态资源到可执行 Skill 蒸馏框架，把教程视频、文章、代码和参考素材转成可浏览、组合与运…
 
 ### 🤖 Agent 工作流与方法论
 
-- [darwin-skill](#3-alchaincyfdarwin-skill-55k-) — 达尔文.skill —— 让所有 Skill 自主进化的系统
+- [darwin-skill](#3-alchaincyfdarwin-skill-56k-) — 达尔文.skill —— 让所有 Skill 自主进化的系统
 
 ### 📦 领域 Skills 合集
 
-- [Product-Manager-Skills](#1-deanpetersproduct-manager-skills-64k-) — 产品管理技能框架，适配 Claude Code / Cowork / Codex
+- [Product-Manager-Skills](#1-deanpetersproduct-manager-skills-65k-) — 产品管理技能框架，适配 Claude Code / Cowork / Codex
 - [axton-obsidian-visual-skills](#7-axtonliuaxton-obsidian-visual-skills-33k-) — Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表
 
 ### 🔧 工具与质量
 
-- [skills](#2-antfuskills-57k-) — Anthony Fu 策展的前端 / Vue 生态 Agent Skills 合集
+- [skills](#2-antfuskills-58k-) — Anthony Fu 策展的前端 / Vue 生态 Agent Skills 合集
 - [skills](#4-browser-actskills-53k-) — 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接
-- [Skills](#5-dimillianskills-39k-) — Dimillian 的个人 Codex Skills 集合，Shell 实现
-- [gemini-skills](#6-google-geminigemini-skills-39k-) — Gemini API、SDK 和 model/agent 交互的 Skills
+- [gemini-skills](#5-google-geminigemini-skills-39k-) — Gemini API、SDK 和 model/agent 交互的 Skills
+- [Skills](#6-dimillianskills-39k-) — Dimillian 的个人 Codex Skills 集合，Shell 实现
 - [chrome-cdp-skill](#8-paskychrome-cdp-skill-32k-) — 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现
 - [OpenClaw-Medical-Skills](#9-freedomintelligenceopenclaw-medical-skills-29k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
 - [skill-scanner](#11-cisco-ai-defenseskill-scanner-24k-) — Cisco 出品，Agent Skills 安全扫描器
 - [nopua](#12-wuji-labsnopua-14k-) — 用爱解放 AI 潜能的 Skill
-- [codex-startup-pressure-test-skill](#13-kappaemme-gitcodex-startup-pressure-test-skill-983-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
-- [oz-skills](#14-warpdotdevoz-skills-820-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
-- [Pretty-mermaid-skills](#15-imxvpretty-mermaid-skills-801-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
-- [chart-visualization-skills](#16-antvischart-visualization-skills-458-) — AntV 面向 AI coding agent 的图表可视化 Skills，用可复用技能把数据分析结果转成合适的视觉表达…
-- [Archscribe](#18-lazypayarchscribe-170-) — 面向 Codex 与 Claude 的手绘技术图 Skill 和本地渲染器，可从 JSON 生成可编辑 Excalidr…
-- [dotfiles](#19-libydotfiles-112-) — 同时服务开发者与 coding agent 的个人开发环境配置，包含 Shell、编辑器及 Agent 工作流约定，便于…
+- [Pretty-mermaid-skills](#13-imxvpretty-mermaid-skills-11k-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
+- [codex-startup-pressure-test-skill](#14-kappaemme-gitcodex-startup-pressure-test-skill-987-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
+- [oz-skills](#15-warpdotdevoz-skills-820-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [chart-visualization-skills](#17-antvischart-visualization-skills-462-) — AntV 面向 AI coding agent 的图表可视化 Skills，用可复用技能把数据分析结果转成合适的视觉表达…
+- [Archscribe](#18-lazypayarchscribe-309-) — 面向 Codex 与 Claude 的手绘技术图 Skill 和本地渲染器，可从 JSON 生成可编辑 Excalidr…
+- [dotfiles](#19-libydotfiles-113-) — 同时服务开发者与 coding agent 的个人开发环境配置，包含 Shell、编辑器及 Agent 工作流约定，便于…
 - [pi](#20-share-skillspi-107-) — 将《孙子兵法》的策略框架与认知科学结合的 Agent Skills 套件，为 AI 提供分析、决策与行动复盘方法
 - [didi-skills](#21-didixuxudidi-skills-80-) — 面向 Claude Code 的商业与研究 Skills，覆盖竞品分析、市场规模估算和学术论文阅读等结构化工作流
 - [skills](#22-youmind-openlabskills-68-) — YouMind OpenLab 提供的 Claude Code Skills 集合，把 AI 辅助学习、思考与内容创作流…
@@ -351,4 +351,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-08-11*
+*由 wind8 整理 | 2026-08-17*
