@@ -7,7 +7,21 @@
 
 ---
 
-## Contents
+## ⭐ 置顶推荐
+
+<p><a href="https://github.com/mattpocock"><img src="./assets/featured/matt-pocock.png" width="48" height="48" align="left" hspace="5" alt="Matt Pocock"></a>
+<strong>Matt Pocock</strong> — Total TypeScript 创始人、全职 TypeScript 教育者，曾参与 XState 核心团队并任 Vercel 开发者布道师。<br>
+<a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>244k ⭐</strong><br clear="left"></p>
+<p><a href="https://github.com/poteto"><img src="./assets/featured/lauren-tan.png" width="48" height="48" align="left" hspace="5" alt="Lauren Tan"></a>
+<strong>Lauren Tan</strong> — SpaceXAI Grok Bot 工程师、React Compiler 核心成员，持续维护 Cursor 官方工程技能集 pstack。<br>
+<a href="https://github.com/cursor/plugins/tree/main/pstack"><strong>pstack →</strong></a> · <a href="https://github.com/cursor/plugins">cursor/plugins</a> · <strong>6.5k ⭐</strong><br clear="left"></p>
+<p><a href="https://github.com/affaan-m"><img src="./assets/featured/affaan-mustafa.png" width="48" height="48" align="left" hspace="5" alt="Affaan Mustafa"></a>
+<strong>Affaan Mustafa</strong> — ECC 创建者，专注 Agent 工程、工作流优化与安全。<br>
+<a href="https://github.com/affaan-m/ECC"><strong>affaan-m/ECC</strong></a> · <strong>246k ⭐</strong><br clear="left"></p>
+
+---
+
+## 目录
 
 01. [obra/superpowers (281k ⭐)](#1-obrasuperpowers-281k-)
 02. [affaan-m/ECC (246k ⭐)](#2-affaan-mecc-246k-)

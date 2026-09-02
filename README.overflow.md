@@ -7,7 +7,7 @@
 
 ---
 
-## Contents
+## 目录
 
 01. [mindfold-ai/Trellis (14k ⭐)](#1-mindfold-aitrellis-14k-)
 02. [MiniMax-AI/skills (13k ⭐)](#2-minimax-aiskills-13k-)
